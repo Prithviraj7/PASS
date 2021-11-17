@@ -1,0 +1,7 @@
+numpy==1.17.2
+Pillow==8.4.0
+PyYAML==3.13
+six==1.16.0
+torch @ https://download.pytorch.org/whl/cu100/torch-1.0.0-cp37-cp37m-linux_x86_64.whl
+torchvision==0.2.2.post3
+tqdm==4.28.1
