@@ -6,7 +6,7 @@ This repository contains the source code for training PASS-g and PASS-s using fe
 
 BibTeX:
 ```
-@InProceedings{Dhar_2021_ICCV,
+@InProceedings{Dhar_Gleason_2021_ICCV,
     author    = {Dhar, Prithviraj and Gleason, Joshua and Roy, Aniket and Castillo, Carlos D. and Chellappa, Rama},
     title     = {{PASS}: Protected Attribute Suppression System for Mitigating Bias in Face Recognition},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
