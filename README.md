@@ -2,7 +2,7 @@
 
 This repository contains the source code for training PASS-g and PASS-s using features from a pre-trained model.
 
-- [Dhar, Prithviraj, et al. "PASS: Protected Attribute Suppression System for Mitigating Bias in Face Recognition." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhar_PASS_Protected_Attribute_Suppression_System_for_Mitigating_Bias_in_Face_ICCV_2021_paper.pdf)
+- [Dhar, Prithviraj and Gleason, Joshua et al. "PASS: Protected Attribute Suppression System for Mitigating Bias in Face Recognition." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhar_PASS_Protected_Attribute_Suppression_System_for_Mitigating_Bias_in_Face_ICCV_2021_paper.pdf)
 
 BibTeX:
 ```
