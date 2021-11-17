@@ -60,7 +60,7 @@ SUBJECT_ID,FILENAME,RACE,PR_MALE
 - `RACE` is an integer representing a BUPT class label between 0 and 3 with {0: asian, 1: caucasian, 2: african, 3: indian}
 - `PR_MALE` is a float between 0 and 1 representing probability that subject is male
 
-Note that for PASS-g `PR_MALE` may be omitted and for PASS-s `RACE` may be omitted.
+Note that for PASS-g `RACE` may be omitted and for PASS-s `PR_MALE` may be omitted.
 
 #### Test features (`inference.py`)
 
